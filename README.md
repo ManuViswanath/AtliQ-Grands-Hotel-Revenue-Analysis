@@ -1,4 +1,4 @@
-# AtliQ Grands Hotel Revenue Analysis
+# AtliQ Grands Hotel Revenue Analysis Project Synopsis
 # Hospitality Business Intelligence Dashboard
 
 **Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGNlMTQxZDEtM2I2MC00ZjYxLThiYmItMzlmNmNkNzQ3YWJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
