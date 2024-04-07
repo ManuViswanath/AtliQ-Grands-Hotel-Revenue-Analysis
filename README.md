@@ -33,3 +33,9 @@ In addition to the provided key metrics, the dashboard may reveal additional ins
 - Correlations between occupancy rates and revenue generation.
 - Impact of promotional campaigns or pricing strategies on revenue.
 - Identification of underperforming periods or segments for targeted improvements.
+
+## Screenshots
+![ss1](https://github.com/ManuViswanath/AtliQ-Grands-Hotel-Revenue-Analysis/assets/70531153/bcdf3a41-17c6-429c-b6b4-b40d64fe885a)
+![ss2](https://github.com/ManuViswanath/AtliQ-Grands-Hotel-Revenue-Analysis/assets/70531153/72e73b9b-eb84-432a-8e91-942793fbeb3a)
+
+
