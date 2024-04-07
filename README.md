@@ -1,5 +1,5 @@
 # AtliQ Grands Hotel Revenue Analysis
-# AtliQ Grands Hospitality Business Intelligence Dashboard
+# Hospitality Business Intelligence Dashboard
 
 **Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGNlMTQxZDEtM2I2MC00ZjYxLThiYmItMzlmNmNkNzQ3YWJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -25,7 +25,7 @@ The objective of this project is to create a comprehensive Business Intelligence
 - Dynamic filtering options for customized views.
 
 ## Tools Utilized
-- Power BI
+- Power BI, Excel
 
 ## Insights
 In addition to the provided key metrics, the dashboard may reveal additional insights such as:
